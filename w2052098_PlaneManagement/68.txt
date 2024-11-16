@@ -1,0 +1,9 @@
+Ticket Information:
+Row: A
+Seat: 3
+Price: £200.0
+
+Passenger Information:
+Name: tgas
+Surname: sgdsg
+Email: cvbd
